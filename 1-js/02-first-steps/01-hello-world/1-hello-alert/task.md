@@ -1,12 +1,12 @@
-importance: 5
+важность: 5
 
 ---
 
-# Show an alert
+# Выведите alert
 
-Create a page that shows a message "I'm JavaScript!".
+Сделайте страницу, которая выводит «Я – JavaScript!».
 
-Do it in a sandbox, or on your hard drive, doesn't matter, just ensure that it works.
+Создайте её в песочнице или на жестком диске -- это не имеет значения, просто убедитесь, что всё работает.
 
 [demo src="solution"]
 
